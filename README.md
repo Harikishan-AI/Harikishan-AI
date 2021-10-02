@@ -1,8 +1,8 @@
-<h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>I'm Harikishan Takoor</h1>
+<h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><br>I'm Harikishan Takoor</h1>
 <h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
 <br>
 
-<h2> About Me </h2>
+<h2>🙋🏻‍♂️About Me </h2>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
