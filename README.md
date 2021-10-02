@@ -1,45 +1,25 @@
-### Hi 👋
+<h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
+<h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
 
-<!--
-**Harikishan-AI/Harikishan-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/Harikishan-AI](https://github.com/Harikishan-AI)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+- 💬 Ask me about **Python**
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harikishan Takoor</h1>
-<h3 align="center">I'm a passionate towards Machine Learning and Artificial Intelligence</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **harikishantakoor@gmail.com**
-
-- ⚡ Fun fact **My favourite sports is Basketball**
-
-## 🚀 Languages and Tools:
-
-<p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    https://www.google.com/search?q=c%2B%2B&rlz=1C1GCEK_enIN960IN960&sxsrf=AOaemvJDI8STpYgl8oC4wUmQToqLfvNMBg:1633177424338&tbm=isch&source=iu&ictx=1&fir=bjvf9RsxFnq9hM%252CbnoQF5njVnaw-M%252C_%253BJKGFVAu1BQ2uTM%252CVyrjhxBKyLRtUM%252C_%253B9Se_Vd5g-M1t3M%252Caty6c11QFjCazM%252C_%253BGbVKgZ18iktFAM%252CoZVHNHW9Q_HR7M%252C_%253Bpihdp97Vf71b5M%252CLW6HjFI5driPYM%252C_&vet=1&usg=AI4_-kSet-PKr8Y5Du8-Taw23OGDX-E5QA&sa=X&ved=2ahUKEwiq6-2B3KvzAhXZfX0KHesdAOUQ_B16BAhJEAE#imgrc=bjvf9RsxFnq9hM
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harikishan takoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikishan takoor" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harikishantakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harikishantakoor" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikishan-ai&show_icons=true&locale=en&layout=compact" alt="harikishan-ai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikishan-ai&show_icons=true&locale=en" alt="harikishan-ai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikishan-ai&" alt="harikishan-ai" /></p>
