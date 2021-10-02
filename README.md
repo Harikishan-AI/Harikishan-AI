@@ -1,4 +1,4 @@
-###Hello Folks
+<h1>Hello Foks!</h1>
 
 <h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
 <h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
