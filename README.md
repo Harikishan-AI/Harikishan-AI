@@ -1,12 +1,12 @@
 <h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><br>I'm Harikishan Takoor</h1>
-<h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
+<h2 align="center">A passionate towards Artificial Intelligence and Machine Learning</h2>
 <br>
 
-<h2>🙋🏻‍♂️About Me </h2>
+<h2><h1>🙋🏻‍♂️</h1> About Me </h2>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="60%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
