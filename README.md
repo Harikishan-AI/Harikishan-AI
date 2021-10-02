@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
 <h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-
+<p align="right>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
+                                                                                                                                
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
