@@ -1,6 +1,5 @@
-<h1>Hello Foks!</h1>
-
 <h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2F&psig=AOvVaw3SbeUnncE8iLJXD_Qm7fcc&ust=1633265336211000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjz6NPhq_MCFQAAAAAdAAAAABAD"></a>
 <h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
