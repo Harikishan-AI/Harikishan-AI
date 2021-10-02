@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
+<h1> Hello Folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<br>
+<h2>Hi i'am Harikishan Takoor</h2>
 <h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
 <br>
                                                                                                                              
