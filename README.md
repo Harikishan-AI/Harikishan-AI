@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
 <h3 align="center">A passionate towards Artificial Intelligence and Machine Learning</h3>
 <br>
-<br>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
                                                                                                                              
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harikishan-AI](https://github.com/Harikishan-AI)
 
@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/harikishan takoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikishan takoor" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harikishantakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harikishantakoor" height="30" width="40" /></a>
 </p>
-<br>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
