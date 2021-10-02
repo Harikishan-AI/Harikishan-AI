@@ -40,5 +40,6 @@ Here are some ideas to get you started:
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    https://www.google.com/search?q=c%2B%2B&rlz=1C1GCEK_enIN960IN960&sxsrf=AOaemvJDI8STpYgl8oC4wUmQToqLfvNMBg:1633177424338&tbm=isch&source=iu&ictx=1&fir=bjvf9RsxFnq9hM%252CbnoQF5njVnaw-M%252C_%253BJKGFVAu1BQ2uTM%252CVyrjhxBKyLRtUM%252C_%253B9Se_Vd5g-M1t3M%252Caty6c11QFjCazM%252C_%253BGbVKgZ18iktFAM%252CoZVHNHW9Q_HR7M%252C_%253Bpihdp97Vf71b5M%252CLW6HjFI5driPYM%252C_&vet=1&usg=AI4_-kSet-PKr8Y5Du8-Taw23OGDX-E5QA&sa=X&ved=2ahUKEwiq6-2B3KvzAhXZfX0KHesdAOUQ_B16BAhJEAE#imgrc=bjvf9RsxFnq9hM
 </p>
 
