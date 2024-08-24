@@ -22,6 +22,5 @@
 
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikishan-ai&show_icons=true&locale=en&layout=compact" alt="harikishan-ai" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikishan-ai&show_icons=true&locale=en" alt="harikishan-ai" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikishan-ai&" alt="harikishan-ai" /></p>
 </p>
