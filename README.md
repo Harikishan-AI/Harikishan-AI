@@ -7,25 +7,16 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Harikishan-AI](https://github.com/Harikishan-AI)
 
 - 💬 Ask me about **Machine Learning, Deep Learning and NLP**
-<br>
-<h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  
+<br?
 
-<a href='https://www.linkedin.com/in/Harikishan-Takoor'>
-  <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
-</a> 
+- ### Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-<a href='https://www.github.com/Harikishan-AI'>
-  <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
-</a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/Harikishan-Takoor)
 
-<a href='https://www.hackerrank.com/harikishantakoor'>
-  <img width='32px' align='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank"/>
-</a>
 <br/>
 
 
