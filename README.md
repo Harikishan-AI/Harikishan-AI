@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning and NLP**
   
-<br?
 
 - ### Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
