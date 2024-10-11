@@ -49,8 +49,35 @@
     </a> &nbsp;&nbsp;
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://avatars.githubusercontent.com/u/114019244?s=200&v=4" alt="langchain" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://llama-index.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/LlamaIndex/llama-index/main/docs/images/llama_index_logo.svg" alt="llama" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://gemma.ai/" target="_blank" rel="noreferrer"> 
+        <img src="https://gemma.ai/images/logo.svg" alt="gemma" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_Logo.svg" alt="openai" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://ollama.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://ollama.com/logo.svg" alt="ollama" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://groq.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://groq.com/logo.svg" alt="groq" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/> 
     </a>
 </p>
+
+
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikishan-ai&show_icons=true&locale=en&layout=compact" alt="harikishan-ai" /></p>
