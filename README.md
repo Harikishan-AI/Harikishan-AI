@@ -59,19 +59,19 @@
         <img src="https://github.com/user-attachments/assets/327e3765-bb77-4b60-9d99-cddae14666ce" alt="icon1" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
     <a href="https://github.com/user-attachments/assets/bfae2fe9-7221-4d13-8d26-3e54332c226c" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/bfae2fe9-7221-4d13-8d26-3e54332c226c" alt="icon2" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/bfae2fe9-7221-4d13-8d26-3e54332c226c" alt="icon2" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
     <a href="https://github.com/user-attachments/assets/b87cc7ce-29f7-4859-a9ae-5ce0d8a1b142" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/b87cc7ce-29f7-4859-a9ae-5ce0d8a1b142" alt="icon3" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/b87cc7ce-29f7-4859-a9ae-5ce0d8a1b142" alt="icon3" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
     <a href="https://github.com/user-attachments/assets/c0adebe7-255b-409f-a637-c61e95e8986a" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/c0adebe7-255b-409f-a637-c61e95e8986a" alt="icon4" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/c0adebe7-255b-409f-a637-c61e95e8986a" alt="icon4" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
     <a href="https://github.com/user-attachments/assets/97f56651-c96c-40bd-8dc8-909b4faee3ec" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/97f56651-c96c-40bd-8dc8-909b4faee3ec" alt="icon5" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/97f56651-c96c-40bd-8dc8-909b4faee3ec" alt="icon5" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
     <a href="https://github.com/user-attachments/assets/ee4c7583-3bda-4491-80af-98b0a3c5d3f2" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/ee4c7583-3bda-4491-80af-98b0a3c5d3f2" alt="icon6" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/ee4c7583-3bda-4491-80af-98b0a3c5d3f2" alt="icon6" width="100" height="100"/> 
     </a>
 </p>
 
