@@ -50,9 +50,9 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a> &nbsp;&nbsp;
-    <a href="![{6CB99421-804E-4694-8197-C850FAF75C69}](https://github.com/user-attachments/assets/3f40a912-2524-45d7-ac0a-8ff668ee2dbe)
-" target="_blank" rel="noreferrer"> 
-        <img src="https://avatars.githubusercontent.com/u/114019244?s=200&v=4" alt="langchain" width="40" height="40"/> 
+    <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+        <img src="![{6CB99421-804E-4694-8197-C850FAF75C69}](https://github.com/user-attachments/assets/e3c9a659-2748-4a65-a9e3-34faf68231e3)
+" alt="langchain" width="40" height="40"/> 
     </a> &nbsp;&nbsp;
     <a href="https://llama-index.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/LlamaIndex/llama-index/main/docs/images/llama_index_logo.svg" alt="llama" width="40" height="40"/> 
