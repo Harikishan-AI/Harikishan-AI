@@ -12,6 +12,11 @@
 <a href="https://www.linkedin.com/in/harikishan-takoor-7185001b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikishan takoor" height="30" width="40" /></a>
 </p>
 
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://avatars.githubusercontent.com/u/114019244?s=200&v=4" alt="langchain" width="40" height="40"/> 
+    </a> &nbsp;&nbsp;
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
