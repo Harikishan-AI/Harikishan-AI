@@ -12,10 +12,6 @@
 <a href="https://www.linkedin.com/in/harikishan-takoor-7185001b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikishan takoor" height="30" width="40" /></a>
 </p>
 
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://avatars.githubusercontent.com/u/114019244?s=200&v=4" alt="langchain" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,31 +51,6 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
     </a> &nbsp;&nbsp;
-    <a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
-        <img src="![{6CB99421-804E-4694-8197-C850FAF75C69}](https://github.com/user-attachments/assets/e3c9a659-2748-4a65-a9e3-34faf68231e3)
-" alt="langchain" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://llama-index.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/LlamaIndex/llama-index/main/docs/images/llama_index_logo.svg" alt="llama" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://gemma.ai/" target="_blank" rel="noreferrer"> 
-        <img src="https://gemma.ai/images/logo.svg" alt="gemma" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_Logo.svg" alt="openai" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://ollama.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://ollama.com/logo.svg" alt="ollama" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://groq.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://groq.com/logo.svg" alt="groq" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
-    </a> &nbsp;&nbsp;
-    <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/> 
-    </a>
 </p>
 
 
