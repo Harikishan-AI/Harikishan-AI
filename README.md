@@ -56,7 +56,7 @@
 <h3 align="left">Explored Gen AI models/Framework</h3>
 <p align="left">
     <a href="https://github.com/user-attachments/assets/327e3765-bb77-4b60-9d99-cddae14666ce" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/327e3765-bb77-4b60-9d99-cddae14666ce" alt="icon1" width="40" height="40"/> 
+        <img src="https://github.com/user-attachments/assets/327e3765-bb77-4b60-9d99-cddae14666ce" alt="icon1" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
     <a href="https://github.com/user-attachments/assets/bfae2fe9-7221-4d13-8d26-3e54332c226c" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/bfae2fe9-7221-4d13-8d26-3e54332c226c" alt="icon2" width="40" height="40"/> 
