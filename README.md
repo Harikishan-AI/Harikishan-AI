@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Harikishan Takoor</h1>
 <h1 align="center">Hi 👋, I'm Kishan</h1>
 <h3 align="center">I am a passionate Machine Learning Engineer specializing in Generative AI, focused on developing innovative, scalable solutions that push the boundaries of AI technology and drive impactful results.</h3>
 
