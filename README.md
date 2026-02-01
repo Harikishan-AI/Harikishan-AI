@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kishan</h1>
-<h3 align="center">I am a passionate Machine Learning Engineer specializing in Generative AI, focused on developing innovative, scalable solutions that push the boundaries of AI technology and drive impactful results.</h3>
-
-- 🔭 I’m currently working on [Text Summarization from Youtube or Wesbite using LangChain](https://github.com/Harikishan-AI/Text-Summarization-from-Youtube-or-Wesbite)
-
-- 🌱 I’m currently learning **Gen AI**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,8 +64,3 @@
         <img src="https://github.com/user-attachments/assets/97f56651-c96c-40bd-8dc8-909b4faee3ec" alt="icon5" width="100" height="100"/> 
     </a> &nbsp;&nbsp;
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikishan-ai&show_icons=true&locale=en&layout=compact" alt="harikishan-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikishan-ai&" alt="harikishan-ai" /></p>
