@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on<br>Building GenAI & Agentic AI systems - RAG pipelines, log anomaly detection with BERT/LLMs, and FastAPI + Streamlit applications for intelligent document/log processing.<br><br>👯 I’m looking to collaborate on<br>LLM-powered tools, multi-agent workflows, MLOps/AI infrastructure, and real-world AI applications involving observability or automation.<br><br>🌱 I’m currently learning<br>Advanced agent orchestration, vector database optimization, evaluation of LLM systems, and cloud-native AI deployment.</p>
+<p align="left">🔭 I’m currently working on<br>Building GenAI & Agentic AI systems - RAG pipelines and FastAPI + Streamlit applications for intelligent document processing.<br><br>👯 I’m looking to collaborate on<br>LLM-powered tools, multi-agent workflows, MLOps/AI infrastructure, and real-world AI applications involving observability or automation.<br><br>🌱 I’m currently learning<br>Advanced agent orchestration, vector database optimization, evaluation of LLM systems, and cloud-native AI deployment.</p>
 
 ###
 
